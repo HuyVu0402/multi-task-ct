@@ -1,0 +1,17 @@
+# Ignore heavy datasets
+data/raw/
+data/processed/
+
+# Checkpoints (PT model)
+checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Pretrained weights
+src/pretrained/
+*.pth
