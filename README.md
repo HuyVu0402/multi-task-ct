@@ -11,6 +11,8 @@ Bài tập lớn môn **MAT3563 - Một số vấn đề chọn lọc về thị
 ## Link tải dữ liệu
 1. Covid-19 & Normal CT Segmentation Dataset: https://data.mendeley.com/datasets/pfmgfpwnmm/1
 2. COVID‑19 CT Lung and Infection Segmentation Dataset: https://medicalsegmentation.com/covid19/
+
+## Link chứa code và dữ liệu: https://drive.google.com/drive/u/6/my-drive
 ## Nội dung chính
 
 - Tiền xử lý CT 3D → lát cắt 2D
