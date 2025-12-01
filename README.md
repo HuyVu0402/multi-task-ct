@@ -60,6 +60,7 @@ multi_task_ct/
 │       │   │   └── img_roi/
 
 │       │   ├── masks/
+
 │       │   │   ├── lesion/
 
 │       │   │   └── lung/
